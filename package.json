@@ -1,0 +1,16 @@
+{
+  "name": "epl_table",
+  "version": "1.0.0",
+  "main": "pages/index.js",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "next": "^1.2.3"
+  }
+}
